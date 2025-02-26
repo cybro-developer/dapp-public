@@ -1,0 +1,13 @@
+.root {
+  padding: 8px 12px;
+  background-color: $background-tooltip;
+  border-radius: 8px;
+  backdrop-filter: blur(32.5px);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
